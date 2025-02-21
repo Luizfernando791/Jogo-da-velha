@@ -1,3 +1,6 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=Ec2300&height=120&section=header"/>
+
+
 <h1>Jogo da Velha em Portugol Studio</h1>
 
 <h2>Introdução:</h2>
@@ -79,3 +82,5 @@ Após cada jogada válida, o tabuleiro atualizado é exibido.</p>
 Se vencedor == 2, exibe "A pessoa que escolheu (O) venceu!".
 
 Se numeroJogadas == 9 e nenhum vencedor foi definido, exibe "Deu VELHA! Jogue novamente!".</p>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=Ec2300&height=120&section=footer"/>
